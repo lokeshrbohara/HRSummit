@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HRSummit/static/css/main.262dcf80.chunk.css",
+    "main.js": "/HRSummit/static/js/main.822344d3.chunk.js",
+    "main.js.map": "/HRSummit/static/js/main.822344d3.chunk.js.map",
+    "runtime-main.js": "/HRSummit/static/js/runtime-main.6ce05644.js",
+    "runtime-main.js.map": "/HRSummit/static/js/runtime-main.6ce05644.js.map",
+    "static/css/2.0eedd39a.chunk.css": "/HRSummit/static/css/2.0eedd39a.chunk.css",
+    "static/js/2.0145082b.chunk.js": "/HRSummit/static/js/2.0145082b.chunk.js",
+    "static/js/2.0145082b.chunk.js.map": "/HRSummit/static/js/2.0145082b.chunk.js.map",
+    "static/js/3.370128af.chunk.js": "/HRSummit/static/js/3.370128af.chunk.js",
+    "static/js/3.370128af.chunk.js.map": "/HRSummit/static/js/3.370128af.chunk.js.map",
+    "index.html": "/HRSummit/index.html",
+    "static/css/2.0eedd39a.chunk.css.map": "/HRSummit/static/css/2.0eedd39a.chunk.css.map",
+    "static/css/main.262dcf80.chunk.css.map": "/HRSummit/static/css/main.262dcf80.chunk.css.map",
+    "static/js/2.0145082b.chunk.js.LICENSE.txt": "/HRSummit/static/js/2.0145082b.chunk.js.LICENSE.txt",
+    "static/media/about.4386edd4.jpg": "/HRSummit/static/media/about.4386edd4.jpg",
+    "static/media/contact.806b7e50.jpg": "/HRSummit/static/media/contact.806b7e50.jpg",
+    "static/media/img1.19bee2e4.jpg": "/HRSummit/static/media/img1.19bee2e4.jpg",
+    "static/media/img2.caf06702.png": "/HRSummit/static/media/img2.caf06702.png",
+    "static/media/img3.86e90455.png": "/HRSummit/static/media/img3.86e90455.png",
+    "static/media/maps.cb00398a.png": "/HRSummit/static/media/maps.cb00398a.png",
+    "static/media/speaker.879e1a6d.jpg": "/HRSummit/static/media/speaker.879e1a6d.jpg",
+    "static/media/sponsor.3c995f4b.png": "/HRSummit/static/media/sponsor.3c995f4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce05644.js",
+    "static/css/2.0eedd39a.chunk.css",
+    "static/js/2.0145082b.chunk.js",
+    "static/css/main.262dcf80.chunk.css",
+    "static/js/main.822344d3.chunk.js"
+  ]
+}
