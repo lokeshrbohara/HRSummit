@@ -53,12 +53,8 @@ function App() {
                 minHeight: 280,
               }}
             >
-              <Switch>
-                <Route
-                  path="/"
-                  component={Home}
-                />
-              </Switch>
+             
+             <Home />
             </Content>
           </Layout>
         </Layout>
